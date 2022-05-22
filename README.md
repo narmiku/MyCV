@@ -1,2 +1,2 @@
 # MyCV
-My CV
+My Online CV
